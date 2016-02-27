@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    topic_autocomplete_enabled: "Do you want to enable Topic Autocomplete?"
+    topic_autocomplete_max_topics_to_remember: "The maximum number of visited topics to remember."
